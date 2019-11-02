@@ -7,6 +7,7 @@
 ![Gambar](https://github.com/aweimngok/Arkademy-Batch-13-2/blob/master/runnomor3.png)
 
 Jika input yang dimasukkan bukan angka, maka :
+
 ![Gambar](https://github.com/aweimngok/Arkademy-Batch-13-2/blob/master/runnomor3false.png)
 
 4. Menggunakan bahasa python, program tidak selesai, algoritma yang direncanakan adalah mencari semua data yang jumlah karakternya sama terlebbih dahulu, kemudian memeriksa karakternya. Namun hanya siap sampai memeriksa panjang karakternya saja,
