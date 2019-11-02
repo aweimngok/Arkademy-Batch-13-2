@@ -1,3 +1,4 @@
+import re
 import random
 def randomize(jumlah):
     bilangan = []
@@ -8,5 +9,19 @@ def randomize(jumlah):
     print ("array : "+ str(bilangan))
     print ("sum : "+ str(total))
     
-angka = int(input ("Masukkan Angka : "))
-randomize(angka)    
+angka = input ("Masukkan Angka : ")
+adaangka=0
+cari = re.findall("[0-9]", angka)
+for i in cari:
+    adaangka+=1
+if adaangka>0:
+    randomize(int(angka))
+else :
+    print ("Input Bukan Angka")
+
+
+
+
+
+
+    
