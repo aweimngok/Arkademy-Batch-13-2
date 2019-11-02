@@ -1,5 +1,5 @@
 # Arkademy-Batch-13-2
-##Semua syntax program yang dibuat telah berhasil di*compile* pada https://www.onlinegdb.com/ dengan ketentuan nomor Soal :
+### Semua syntax program yang dibuat telah berhasil di*compile* pada https://www.onlinegdb.com/ dengan ketentuan nomor Soal :
 
 1. Tidak dibuat
 2. Menggunakan bahasa js (Javascript)
